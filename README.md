@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jamie Chen
 
-Blockchain explorer and Web3 smart contract tinkerer
+Blockchain explorer and Web3 smart contrat tinkerer
 
 🌱 I'm constantly learning and contributing to the open-source community.
 
